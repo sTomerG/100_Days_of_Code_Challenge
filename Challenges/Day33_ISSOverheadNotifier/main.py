@@ -49,4 +49,3 @@ if __name__ == "__main__":
     # schedule.every().minutes.do(main)
     # while True:
     #     schedule.run_pending
-    main()
